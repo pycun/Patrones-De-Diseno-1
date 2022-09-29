@@ -7,3 +7,7 @@
 3. #### Meetup #3 - Patrones de diseño: Command.
 
 4. #### Meetup #4 - Patrones de diseño: Decorator.
+
+5. #### Meetup #4 - Patrones de diseño: Singleton.
+
+6. #### Meetup #4 - Patrones de diseño: Facade.
