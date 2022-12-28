@@ -12,4 +12,6 @@
 
 6. #### Meetup #6 - Patrones de diseño: Facade.
 
-6. #### Meetup #7 - Patrones de diseño: State.
+7. #### Meetup #7 - Patrones de diseño: State.
+
+8. #### Meetup #8 - Patrones de diseño: Prototype.
