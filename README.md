@@ -15,3 +15,5 @@
 7. #### Meetup #7 - Patrones de diseño: State.
 
 8. #### Meetup #8 - Patrones de diseño: Prototype.
+
+9. #### Meetup #8 - Patrones de diseño: Iterator.
