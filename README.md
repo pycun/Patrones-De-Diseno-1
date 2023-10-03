@@ -16,4 +16,10 @@
 
 8. #### Meetup #8 - Patrones de diseño: Prototype.
 
-9. #### Meetup #8 - Patrones de diseño: Iterator.
+9. #### Meetup #9 - Patrones de diseño: Iterator.
+
+10. #### Meetup #10 - Patrones de diseño: Observer.
+    
+11. #### Meetup #11 - Patrones de diseño: Builder.
+    
+12. #### Meetup #11 - Patrones de diseño: Visitor.
